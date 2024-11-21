@@ -322,7 +322,7 @@ Template("kaplan_fillers.csv", row =>
     .log("question", row.question)
     .log("type", row.type)
     .log("position", row.position)
-    .log("agreement", row.agreement)
+    //.log("agreement", row.agreement)
     .log("target-ver", row.target_ver)
     .log("target-nonver", row.target_nonver)
     .log("distractor-ver", row.distractor_ver)
