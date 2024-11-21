@@ -1,0 +1,74 @@
+body {
+    color: black;
+    font-family: Helvetica, sans-serif;
+    background-color: #F2F1EE;
+    margin-left: 20em;
+    margin-top: 5em;
+    margin-right: 20em;
+}
+
+.lindent { margin-left: 5em; }
+.sending-results {
+    font-weight: bold;
+    font-size: medium;
+}
+div.bar-container {
+    border: 1px solid;
+    border-color: #9ea4b1;
+    background-color: white;
+}
+div.bar {
+    background-color: blue;
+}
+p.progress-text {
+    padding-top: 0.5em;
+    margin-top: 0;
+    margin-bottom: 2em;
+    font-style: italic;
+    font-size: small;
+}
+p.practice-box {
+    color: blue;
+    height: 1.5em;
+    padding-bottom: 1em;
+    font-size: small;
+    text-align: center;
+}
+span.retry {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+span.retry:hover {
+    text-decoration: underline;
+}
+span.retry:visited {
+    color: blue;
+}
+.DashedSentence-sentence {
+    background-color: #F2F1EE;
+    font-family: courier, serif;
+    line-height: 200%;
+    font-size: 36px;
+    font-weight: bold;
+    color: black;
+    clear: both;
+}
+
+li.Question-scale-box {
+    background-color: #F9F9F7;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+    font-weight: normal;
+    width: 20em;
+}
+
+li.Question-instructions-text {
+    background-color: #F9F9F7;
+    clear: left;
+    padding-top: 1em;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+}
