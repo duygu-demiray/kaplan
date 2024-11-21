@@ -1,4 +1,4 @@
-id,itemset,group,type,position,NP1,sent,NP2,main verb,sentence,question,ans1,ans2,ans3,ans4,target_ver,target_nonver,distractor_ver,distractor_nonver,condition,notes
+id,item,group,type,position,NP1,sent,NP2,main verb,sentence,question,ans1,ans2,ans3,ans4,target_ver,target_nonver,distractor_ver,distractor_nonver,condition,notes
 ,37,f,sem,modifier,The parents,of,the child,argued with each other excessively.,The parents of the child argued with each other excessively.,Who argued?,The parent,The parents,The child,The children,2,3,1,4,sem_modifier,"Balance out the response types with fillers: morphological attraction lookalikes with semantically related NPs, semantic attraction lookalikes with plural NPs
 *Semantically related nouns in the morphological attraction configuration: you can use your intuitions because they just need to *look* like semantic attraction
 *Fillers with semantically unrelated nouns"
