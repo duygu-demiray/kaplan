@@ -82,7 +82,7 @@ newTrial("intro",
 
 
 // Practice trial
-Template("corgi_practice.csv", row =>
+Template("kaplan_practice.csv", row =>
     newTrial("practice"
     ,
         newText("break", "+")
@@ -177,7 +177,7 @@ newTrial("practice-end"
 );
 
 // Experimental trial
-Template("corgi_items.csv", row =>
+Template("kaplan_items.csv", row =>
     newTrial("experimental-trial"
     ,
         newText("break", "+")
@@ -255,7 +255,7 @@ Template("corgi_items.csv", row =>
 );
 
 // Filler trial
-Template("corgi_fillers.csv", row =>
+Template("kaplan_fillers.csv", row =>
     newTrial("fillers"
     ,
         newText("break", "+")
