@@ -177,7 +177,7 @@ newTrial("practice-end"
 );
 
 // Experimental trial
-Template("kaplan_items.csv", row =>
+Template("kaplan_targets.csv", row =>
     newTrial("experimental-trial"
     ,
         newText("break", "+")
