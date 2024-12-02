@@ -354,7 +354,7 @@ newTrial("debriefing",
 
 // Completion screen
 newTrial("completion_screen",
-    newText("thanks", "Thank you for your participation. Your completion code is C2SERWBN. To complete this experiment, go to: https://app.prolific.co/submissions/complete?cc=C2SERWBN")
+    newText("thanks", "Thank you for your participation. Your completion code is C1P37XJ5. To complete this experiment, go to: https://app.prolific.com/submissions/complete?cc=C1P37XJ5")
         .center()
         .print()
 ,
