@@ -166,7 +166,7 @@ Template("kaplan_practice.csv", row =>
 // End of practice screen
 newTrial("practice-end"
     ,
-    newText("practice-end", "That's all for practice. Now the main part of the experiment will begin")    
+    newText("practice-end", "That's all for practice. Now the main part of the experiment will begin.")    
         .center()
         .print()
     ,
