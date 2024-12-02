@@ -1,6 +1,6 @@
 ﻿item,sentence,question,ans1,ans2,ans3,ans4,target_ver,target_nonver,distractor_ver,distractor_nonver,group,condition,type,position,target
 1,This is just a practice sentence.,And this is a practice question. Try picking the upper left option!,practice option,practice option,practice option,practice option,1,2,-,-,X,PRACTICE,-,-,-
 2,"Let's try another sentence, and this time pick the bottom right answer.",Pick an answer as the sentence instructed.,practice option,practice option,practice option,practice option,4,3,-,-,X,PRACTICE,-,-,-
-3,"Over 10,000 species risk extinction in Amazon, says a landmark report.",Who stated that the Amazom ecosystem is facing problems?,an activist,activists,a report,reports,3,4,-,-,X,PRACTICE,-,-,-
+3,"Over 10,000 species risk extinction in Amazon, says a landmark report.",Who stated that the Amazon ecosystem is facing problems?,an activist,activists,a report,reports,3,4,-,-,X,PRACTICE,-,-,-
 4,The personal assistant who the bodyguard of the delegate does not trust attracts great public attention.,Who attracts great public attention?,the personal assistant,the personal assistants,the delegates,the delegates,1,2,-,-,X,PRACTICE,-,-,-
 5,The priest who had privately advised the lawyers is accused of witholding information.,Who was advised by a priest?,the lawyer,the lawyers,the nun,the nuns,2,1,-,-,X,PRACTICE,-,-,-
